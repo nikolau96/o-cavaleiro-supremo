@@ -1,5 +1,3 @@
-# O CAVALEIRO SUPREMO
-
 ## Controles de Movimentação
 * Cima = W
 * Baixo = S
@@ -9,4 +7,5 @@
 ## Controles de Ataque
 * Ataque = botão esquerdo do mouse
 
-O jogo está disponível na web através do seguinte link: (https://nikolau96.itch.io/o-cavaleiro-supremo)
+##Disponibilidade
+O jogo está disponível na web através do seguinte link: [O Cavaleiro Supremo](https://nikolau96.itch.io/o-cavaleiro-supremo)
