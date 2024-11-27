@@ -7,5 +7,5 @@
 ## Controles de Ataque
 * Ataque = botão esquerdo do mouse
 
-##Disponibilidade
+## Disponibilidade
 O jogo está disponível na web através do seguinte link: [O Cavaleiro Supremo](https://nikolau96.itch.io/o-cavaleiro-supremo)
